@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"src","l":"App"},{"p":"src.CuentaAtras","l":"DownCounterProgram"},{"p":"src.Cronometro","l":"HaltChecker2"},{"p":"src.Cronometro","l":"UpCounterProgram"}];updateSearchResults();
