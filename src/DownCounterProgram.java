@@ -18,7 +18,7 @@ class DownCounterSingleton {
     public void countDown() {
         for (int i = startNumber; i >= 0; i--) {
             if (i == 0) {
-                System.out.println("Despegamos!");
+                System.out.println("¡¡Hala Madrid a por la 15!!");
             } else {
                 System.out.println("Cuenta atrás: " + i);
             }
